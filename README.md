@@ -1,6 +1,6 @@
 # Auto Car Mk II
 
-![alt Mk II](mk2.jpg | width=100)
+![alt Mk II](mk2.jpg "LAuto Car Mk II")
 
 Working shots: https://drive.google.com/drive/folders/1caeRWpZJ2gp7c3-4RAnem3mxa90YtM-V?usp=sharing
 
