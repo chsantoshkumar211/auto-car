@@ -2,9 +2,9 @@
 <p align="center">
 Auto Car Mk II is an autonomous RC Car that is built from Arduino and OpenCV
 </p>
-| | |
-|:------------------:|:--------------------------:|
-|<p align="center" width="100%"><img width="33%" src="mk2.jpg"></p> | <p align="center" width="100%"><img width="33%" src="mk2_back.jpg"> </p>|
+Front View | Back View
+--- | ---
+<p align="center" width="100%"><img width="33%" src="mk2.jpg"></p> | <p align="center" width="100%"><img width="33%" src="mk2.jpg"></p>
 
 ---
 
