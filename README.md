@@ -7,7 +7,10 @@ Auto Car Mk II is an autonomous RC Car that is built from Arduino and OpenCV
   <img src="mk2_back.jpg" width="25%" /> 
 </p>
 
-Video of Mk II: https://drive.google.com/file/d/1-J92t60dJyDjMb6iAmfPrqHoX9GghsHk/view?usp=sharing
+Videos of Mk II: 
+
+https://drive.google.com/file/d/1-J92t60dJyDjMb6iAmfPrqHoX9GghsHk/view?usp=sharing
+https://drive.google.com/file/d/14J3p6zdHqI16if9cOr93Q27I_Vp67vFw/view?usp=sharing
 
 Working shots of Mk II and Mk I: https://drive.google.com/drive/folders/1caeRWpZJ2gp7c3-4RAnem3mxa90YtM-V?usp=sharing
 
