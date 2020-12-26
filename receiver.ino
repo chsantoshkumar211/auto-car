@@ -1,8 +1,3 @@
-/*ARDUINO JOYSTICK CONTROLLED CAR (RECEIVER)
-        
-YOU HAVE TO INSTALL THE RF24 LIBRARY BEFORE UPLOADING THE CODE
-   https://github.com/tmrh20/RF24/        
-*/
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
